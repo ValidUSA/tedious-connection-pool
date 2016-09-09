@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "valid-tedious": "^2.14.0"
+    "valid-tedious": "^1.14.0"
   },
   "devDependencies": {
     "mocha": "^3.0.2",
